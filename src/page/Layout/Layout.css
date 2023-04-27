@@ -1,0 +1,10 @@
+.layout{
+    padding: 0 100px;
+}
+.header{
+    display: flex;
+}
+.myeditor{
+    border: 5px solid lightblue;
+    height: 70vh;
+}
